@@ -1,0 +1,13 @@
+.container{
+    overflow: hidden;
+}
+.left-div{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.right-div{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
